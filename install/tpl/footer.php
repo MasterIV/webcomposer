@@ -10,5 +10,8 @@
 		<script type="text/javascript" src="install/js/jquery.min.js"></script>
 		<script type="text/javascript" src="install/js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="install/js/webcomposer.js"></script>
+
+
+		<script>$(function() { webcomposer.install('MasterIV/framework'); });</script>
 	</body>
 </html>
